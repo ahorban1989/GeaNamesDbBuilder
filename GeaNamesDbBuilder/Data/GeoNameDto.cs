@@ -1,5 +1,7 @@
 ﻿namespace GeaNamesDbBuilder.Data;
 
+using System;
+
 public class GeoNameDto
 {
 
